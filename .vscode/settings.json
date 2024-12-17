@@ -1,0 +1,9 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\gateway"
+    ],
+    "files.associations": {
+        "metrics.h": "c",
+        "version.h": "c"
+    }
+}

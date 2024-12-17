@@ -1,0 +1,6 @@
+{
+    "git.enabled": false,
+    "nrf-connect.applications": [
+        "${workspaceFolder}"
+    ]
+}

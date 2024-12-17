@@ -1,0 +1,14 @@
+{
+  "board": "nrf7002dk/nrf5340/cpuapp",
+  "boardRevision": "",
+  "boardDir": "/Users/melanieherbert/Documents/fp-f24-iot-venture-pitch-solar/memfault_wifi_demo-main/nrf/boards/nordic/nrf7002dk",
+  "shouldBuild": true,
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [],
+  "buildDirectory": "build_1",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}
