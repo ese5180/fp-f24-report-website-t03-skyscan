@@ -96,3 +96,7 @@ Following test-driven development (TDD) was another area where we struggled. Whi
 #### Gateway device:
 
 ![](/images/gateway.jpg)
+
+#### Memfault pic:
+
+![](/images/memfault_sc.png)
