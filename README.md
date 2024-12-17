@@ -1,3 +1,6 @@
+## Link to published site: 
+https://ese5180.github.io/fp-f24-report-website-t03-skyscan/
+
 ## Review your IoT Venture Pitch assignment. Identify what changed throughout the project, including:
 
 ### Target Market & Demographics
