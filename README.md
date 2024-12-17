@@ -95,8 +95,13 @@ Following test-driven development (TDD) was another area where we struggled. Whi
 
 #### Gateway device:
 
+### DEMO LINK:
+
+https://www.dropbox.com/scl/fi/pjv16b0ebjuh4miqluv8f/12-9-24-1-46-57.mov?rlkey=sufy07ei8y44om1euldi0zu07&st=nkn57wia&dl=0 
+
 ![](/images/gateway.jpg)
 
-#### Memfault pic:
+### Memfault:
 
 ![](/images/memfault_sc.png)
+
